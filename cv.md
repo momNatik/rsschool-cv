@@ -1,4 +1,4 @@
-# **Nataliya Prytchina**
+# **Nataliya Pritchina**
 
 
 ## Contacts
@@ -40,3 +40,7 @@ Back in high school, I was actively involved in programming and solved a lot of 
 ## Education
 * Belarusian State Medical College, Curative affair
 * CS50 lections
+
+
+## English level
+B1 - Intermediate
