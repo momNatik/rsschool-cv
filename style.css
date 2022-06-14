@@ -103,6 +103,14 @@ h1 {
     margin-left: 20px;
 }
 
+.right-column a {
+    margin-left: 20px;
+}
+
+.right-column span {
+    margin-left: 20px;
+}
+
 .code-example {
     color: #ffffff;
     background-color: #202020;
