@@ -36,3 +36,8 @@ Back in high school, I was actively involved in programming and solved a lot of 
     alert("me at home!");
     }
   ```
+  
+## Education
+* Belarusian State Medical College, Curative affair
+* CS50 lections
+
