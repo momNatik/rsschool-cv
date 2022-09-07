@@ -41,3 +41,7 @@ Back in high school, I was actively involved in programming and solved a lot of 
 * Belarusian State Medical College, Curative affair
 * CS50 lections
 
+
+## English level
+B1 - Intermediate
+
